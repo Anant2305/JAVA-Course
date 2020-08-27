@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Dipti</first_name>
+	<last_name>Chohan</last_name>
+	<phone_number>01613445145</phone_number>
+	<notes>She is my Wife</notes>
+</contact>
+<contact>
+	<first_name>Amisha</first_name>
+	<last_name>Chohans</last_name>
+	<phone_number>52563</phone_number>
+	<notes>Daughter</notes>
+</contact>
+<contact>
+	<first_name>Shiv</first_name>
+	<last_name>Chohan</last_name>
+	<phone_number>15963</phone_number>
+	<notes>Son</notes>
+</contact>
+</contacts>
